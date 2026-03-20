@@ -1,0 +1,249 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "name": "Classic Espresso",
+      "price": 3.50,
+      "description": "A strong, concentrated coffee shot made from freshly ground beans. Perfect for a quick energy boost.",
+      "category": "espresso",
+      "image": "https://images.unsplash.com/photo-1510591509098-f4fdc6d0ff04?w=400",
+      "ingredients": ["Espresso beans", "Water"],
+      "caffeine": "63mg",
+      "calories": 5
+    },
+    {
+      "id": 2,
+      "name": "Cappuccino",
+      "price": 4.25,
+      "description": "Equal parts espresso, steamed milk, and velvety milk foam. A perfect balance of bold and creamy.",
+      "category": "cappuccino",
+      "image": "https://images.unsplash.com/photo-1572442388796-11668a67e53d?w=400",
+      "ingredients": ["Espresso", "Steamed milk", "Milk foam"],
+      "caffeine": "75mg",
+      "calories": 120
+    },
+    {
+      "id": 3,
+      "name": "Vanilla Latte",
+      "price": 4.50,
+      "description": "Smooth espresso with steamed milk and a hint of vanilla syrup. Sweet and comforting.",
+      "category": "latte",
+      "image": "https://images.unsplash.com/photo-1561047029-3000c68339ca?w=400",
+      "ingredients": ["Espresso", "Steamed milk", "Vanilla syrup"],
+      "caffeine": "75mg",
+      "calories": 190
+    },
+    {
+      "id": 4,
+      "name": "Americano",
+      "price": 3.75,
+      "description": "Espresso diluted with hot water for a milder coffee experience. Clean and straightforward.",
+      "category": "americano",
+      "image": "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?w=400",
+      "ingredients": ["Espresso", "Hot water"],
+      "caffeine": "95mg",
+      "calories": 15
+    },
+    {
+      "id": 5,
+      "name": "Mocha",
+      "price": 4.50,
+      "description": "Rich espresso combined with chocolate syrup and steamed milk. A decadent treat.",
+      "category": "mocha",
+      "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400",
+      "ingredients": ["Espresso", "Chocolate syrup", "Steamed milk", "Whipped cream"],
+      "caffeine": "95mg",
+      "calories": 290
+    },
+    {
+      "id": 6,
+      "name": "Caramel Macchiato",
+      "price": 4.75,
+      "description": "Espresso marked with vanilla syrup, steamed milk, and caramel drizzle. Sweet and sophisticated.",
+      "category": "macchiato",
+      "image": "https://images.unsplash.com/photo-1485808191679-5f86510681a2?w=400",
+      "ingredients": ["Espresso", "Vanilla syrup", "Steamed milk", "Caramel sauce"],
+      "caffeine": "75mg",
+      "calories": 250
+    },
+    {
+      "id": 7,
+      "name": "Flat White",
+      "price": 4.25,
+      "description": "Velvety microfoam espresso with a higher coffee-to-milk ratio. Smooth and rich.",
+      "category": "flat-white",
+      "image": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=400",
+      "ingredients": ["Espresso", "Microfoam milk"],
+      "caffeine": "130mg",
+      "calories": 120
+    },
+    {
+      "id": 8,
+      "name": "Cold Brew",
+      "price": 4.00,
+      "description": "Smooth, cold coffee steeped for 12+ hours. Less acidic and incredibly smooth.",
+      "category": "cold-brew",
+      "image": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?w=400",
+      "ingredients": ["Cold brew concentrate", "Water"],
+      "caffeine": "200mg",
+      "calories": 5
+    },
+    {
+      "id": 9,
+      "name": "Nitro Cold Brew",
+      "price": 4.50,
+      "description": "Cold brew infused with nitrogen for a creamy, Guinness-like texture. Velvety smooth.",
+      "category": "cold-brew",
+      "image": "https://images.unsplash.com/photo-1559496417-e7f25cb247f3?w=400",
+      "ingredients": ["Cold brew concentrate", "Nitrogen"],
+      "caffeine": "200mg",
+      "calories": 5
+    },
+    {
+      "id": 10,
+      "name": "Iced Latte",
+      "price": 4.25,
+      "description": "Chilled espresso with cold milk over ice. Refreshing and smooth.",
+      "category": "iced",
+      "image": "https://images.unsplash.com/photo-1517701604599-bb29b565090c?w=400",
+      "ingredients": ["Espresso", "Cold milk", "Ice"],
+      "caffeine": "75mg",
+      "calories": 90
+    },
+    {
+      "id": 11,
+      "name": "White Chocolate Mocha",
+      "price": 4.75,
+      "description": "Espresso with white chocolate and steamed milk. Creamy and indulgent.",
+      "category": "mocha",
+      "image": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=400",
+      "ingredients": ["Espresso", "White chocolate", "Steamed milk", "Whipped cream"],
+      "caffeine": "75mg",
+      "calories": 320
+    },
+    {
+      "id": 12,
+      "name": "Turkish Coffee",
+      "price": 3.75,
+      "description": "Finely ground coffee boiled with water and served unfiltered. Traditional and strong.",
+      "category": "traditional",
+      "image": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=400",
+      "ingredients": ["Finely ground coffee", "Water", "Sugar (optional)"],
+      "caffeine": "160mg",
+      "calories": 5
+    },
+    {
+      "id": 13,
+      "name": "Irish Coffee",
+      "price": 6.00,
+      "description": "Hot coffee with Irish whiskey, sugar, and whipped cream. A warm evening treat.",
+      "category": "specialty",
+      "image": "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?w=400",
+      "ingredients": ["Hot coffee", "Irish whiskey", "Sugar", "Whipped cream"],
+      "caffeine": "95mg",
+      "calories": 220
+    },
+    {
+      "id": 14,
+      "name": "Vietnamese Coffee",
+      "price": 4.50,
+      "description": "Strong coffee slowly dripped through a metal filter with sweetened condensed milk.",
+      "category": "traditional",
+      "image": "https://images.unsplash.com/photo-1497935586351-b67a49e012bf?w=400",
+      "ingredients": ["Vietnamese coffee", "Sweetened condensed milk"],
+      "caffeine": "200mg",
+      "calories": 180
+    },
+    {
+      "id": 15,
+      "name": "Cortado",
+      "price": 3.75,
+      "description": "Equal parts espresso and steamed milk for perfect balance. Clean and pure.",
+      "category": "cortado",
+      "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400",
+      "ingredients": ["Espresso", "Steamed milk"],
+      "caffeine": "63mg",
+      "calories": 40
+    },
+    {
+      "id": 16,
+      "name": "Red Eye",
+      "price": 4.00,
+      "description": "Drip coffee with a shot of espresso for extra caffeine kick. Bold and energizing.",
+      "category": "specialty",
+      "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=400",
+      "ingredients": ["Drip coffee", "Espresso shot"],
+      "caffeine": "160mg",
+      "calories": 10
+    },
+    {
+      "id": 17,
+      "name": "Pumpkin Spice Latte",
+      "price": 5.00,
+      "description": "Seasonal favorite with espresso, pumpkin spice, and steamed milk. Cozy and autumnal.",
+      "category": "seasonal",
+      "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400",
+      "ingredients": ["Espresso", "Pumpkin spice syrup", "Steamed milk", "Whipped cream"],
+      "caffeine": "75mg",
+      "calories": 380
+    },
+    {
+      "id": 18,
+      "name": "Honey Lavender Latte",
+      "price": 4.75,
+      "description": "Floral and sweet latte with honey and lavender syrup. Unique and aromatic.",
+      "category": "specialty",
+      "image": "https://images.unsplash.com/photo-1561047029-3000c68339ca?w=400",
+      "ingredients": ["Espresso", "Honey", "Lavender syrup", "Steamed milk"],
+      "caffeine": "75mg",
+      "calories": 220
+    }
+  ],
+  "categories": [
+    { "id": "espresso", "name": "Espresso", "description": "Strong concentrated coffee shots" },
+    { "id": "latte", "name": "Latte", "description": "Creamy espresso with steamed milk" },
+    { "id": "cappuccino", "name": "Cappuccino", "description": "Espresso with equal milk and foam" },
+    { "id": "americano", "name": "Americano", "description": "Espresso diluted with hot water" },
+    { "id": "mocha", "name": "Mocha", "description": "Chocolate-infused espresso drinks" },
+    { "id": "macchiato", "name": "Macchiato", "description": "Espresso marked with milk foam" },
+    { "id": "flat-white", "name": "Flat White", "description": "Microfoam espresso drinks" },
+    { "id": "cold-brew", "name": "Cold Brew", "description": "Cold-steeped coffee beverages" },
+    { "id": "iced", "name": "Iced", "description": "Chilled coffee drinks" },
+    { "id": "frappuccino", "name": "Frappuccino", "description": "Blended iced coffee drinks" },
+    { "id": "traditional", "name": "Traditional", "description": "Classic coffee preparations" },
+    { "id": "specialty", "name": "Specialty", "description": "Unique and alcoholic coffee drinks" },
+    { "id": "cortado", "name": "Cortado", "description": "Balanced espresso and milk" },
+    { "id": "seasonal", "name": "Seasonal", "description": "Limited-time seasonal offerings" }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "password",
+      "role": "admin",
+      "name": "Coffee Shop Admin",
+      "email": "admin@coffeeshop.com"
+    },
+    {
+      "id": 2,
+      "username": "barista",
+      "password": "barista123",
+      "role": "staff",
+      "name": "Jane Barista",
+      "email": "jane@coffeeshop.com"
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "customerName": "John Doe",
+      "items": [
+        { "menuId": 2, "quantity": 1, "price": 4.25 },
+        { "menuId": 8, "quantity": 2, "price": 4.00 }
+      ],
+      "total": 12.25,
+      "status": "completed",
+      "timestamp": "2024-03-20T10:30:00Z"
+    }
+  ]
+}
